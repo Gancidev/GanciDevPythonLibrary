@@ -1,6 +1,6 @@
 # GanciDevPythonLibrary
  
-#Funzioni disponibili
+## Funzioni disponibili
 ___
 ```
 1. status_raspy
@@ -36,7 +36,7 @@ ___
 11. unrar_multiple_protected_files
     -Estrae file rar protetti da password.
 ```
-#Librerie per l'utilizzo
+## Librerie per l'utilizzo
 ___
 ```
 1. os
@@ -49,7 +49,7 @@ ___
 8. PdfReader, PdfWriter, PageMerge (from pdfrw)
 9. Path (from pathlib)
 ```
-##Descrizione delle funzioni
+## Descrizione delle funzioni
 ___
 ```
 1. status_raspy
@@ -105,7 +105,7 @@ ___
             file1.rar       password_file1
             file2.rar       password_file2
 ```
-#Installazione e Utilizzo
+## Installazione e Utilizzo
 ___
 Per utilizzare la libreria è necessario installare i seguenti software:
 ```
