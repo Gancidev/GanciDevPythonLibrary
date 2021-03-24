@@ -1,7 +1,6 @@
 # GanciDevPythonLibrary
  
 ## Funzioni disponibili
-___
 ```
 1. status_raspy
     -Stampa lo stato delle memorie e della CPU della Raspberry.
@@ -37,7 +36,6 @@ ___
     -Estrae file rar protetti da password.
 ```
 ## Librerie per l'utilizzo
-___
 ```
 1. os
 2. subprocess
@@ -50,7 +48,6 @@ ___
 9. Path (from pathlib)
 ```
 ## Descrizione delle funzioni
-___
 ```
 1. status_raspy
     -Utilizza comandi di sistema, maggiori dettagli nel codice stesso.
@@ -106,7 +103,6 @@ ___
             file2.rar       password_file2
 ```
 ## Installazione e Utilizzo
-___
 Per utilizzare la libreria è necessario installare i seguenti software:
 ```
 1. unoconv
